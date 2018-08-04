@@ -11,7 +11,6 @@ int main() {
 
 	double anaPara = 10000;
 	double hedef = 55000;
-	double bahis = 100;
 
 	double denemeSayisi = 365; // hedefe ulaþmak için oynanacak oyun
 	double paralelEvrenSayisi = 5000; // oyuna sýfýrdan baþlama sayýsý 
