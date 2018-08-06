@@ -25,7 +25,7 @@ int main() {
 				anaParadurumu += anaParadurumu*(bahisYuzdesi / 100);
 			}
 			else {
-				anaParadurumu -= anaParadurumu*(bahisYuzdesi / 150);
+				anaParadurumu -= anaParadurumu*(bahisYuzdesi / 100);
 			}
 			if (anaParadurumu >= hedef) {
 				kazanmaSayisi++;
